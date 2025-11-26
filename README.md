@@ -9,9 +9,11 @@ This repository showcases practical work such as security audits, compliance ass
 
 ## Projects
 
-### **1. Botium Toys – Security Audit & Compliance Assessment**
-**Type:** Security Audit, GRC, Compliance  
-**Project folder:** [Botium_Toys_Audit](Botium_Toys_Audit/README.md)
+1. Botium Toys – Security Audit & Compliance Assessment
+
+Type: Security Audit, GRC, Compliance  
+📂 **Project folder:** [Botium_Toys_Audit](Botium_Toys_Audit/README.md)
+
 
 This project simulates a real-world security audit for a fictional e-commerce toy company. It includes:
 
