@@ -1,55 +1,48 @@
 # Cybersecurity & GRC Portfolio
 
-Welcome to my cybersecurity and governance, risk, and compliance (GRC) portfolio. I'm currently starting my degree with the Open University and building hands-on experience through structured projects.
+Welcome to my cybersecurity and governance, risk, and compliance (GRC) portfolio.  
+I'm currently studying with the Open University and building hands-on experience through structured cybersecurity and GRC projects.
 
-This repository showcases practical work such as security audits, compliance assessments, and foundational cybersecurity exercises.
+This repository showcases practical work such as security audits, compliance assessments, risk analysis, and foundational cybersecurity exercises.
 
 ---
 
 ## Projects
 
 ### **1. Botium Toys – Security Audit & Compliance Assessment**
-**Type:** Security Audit, GRC, Compliance
+**Type:** Security Audit, GRC, Compliance  
+**Project folder:** [Botium_Toys_Audit](Botium_Toys_Audit/README.md)
 
 This project simulates a real-world security audit for a fictional e-commerce toy company. It includes:
-- A full security controls and compliance checklist
-- An executive summary audit report
-- Assessment aligned with **PCI DSS, GDPR, and SOC 2**
 
-**Key Skills Demonstrated:**
-- Reviewing and analysing security controls
-- Identifying high, medium, and low-risk issues
-- Mapping findings to compliance frameworks
-- Writing clear, non-technical recommendations for stakeholders
-
-**Files included:**
-- `Botium_Toys_Audit_Report_With_Checklist.pdf`
-- `Botium_Toys_Full_Audit_Report.pdf`
+- A full security controls and compliance checklist  
+- A complete written audit report  
+- Identified risks, gaps, and recommended remediation steps  
+- Demonstrated understanding of GRC frameworks and audit methodology  
 
 ---
 
-## About This Portfolio
-I’m new to cybersecurity and currently studying part-time at the Open University (starting January 31, 2026). This portfolio documents my learning journey and hands-on experience as I grow into the field.
+## Skills Demonstrated
 
-More projects will be added over time, including:
-- Risk assessments
-- Policy writing
-- Privacy impact assessments
-- Basic technical hardening exercises
-
----
-
-## 📫 Contact
-Feel free to connect or reach out:
-- **Email:** [bruno_santos1987@hotmail.com](mailto:bruno_santos1987@hotmail.com)
-
-
+- Governance, Risk & Compliance (GRC)
+- Cybersecurity audit methodology  
+- Risk identification and prioritization  
+- Report writing and documentation  
+- Compliance assessments  
+- Security controls evaluation  
+- Understanding of policies, processes, and standards  
 
 ---
 
-## Future Improvements
-- Add more project sections as I progress through my degree
-- Expand into SOC analyst labs and threat modelling
-- Add diagrams, markdown reports, and documentation
+## About This Portfolio 
 
-Thank you for visiting my portfolio!
+This repository will continue to grow as I complete additional cybersecurity projects, including:
+
+- Linux log analysis  
+- Incident response tasks  
+- Network security investigations  
+- Risk assessments  
+- SIEM exercises  
+- Cloud security fundamentals  
+
+Stay tuned for more updates!
